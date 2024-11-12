@@ -1,15 +1,16 @@
 package global
 
 import (
+	"time"
+
 	"github.com/redis/go-redis/v9"
 	"go.uber.org/zap"
 	"gorm.io/gorm"
-	"time"
 )
 
 var (
 	// Logger 日志
-	Logger *zap.SugaredLogger
+	Logger *zap.Logger
 	// DB mysql数据库
 	DB *gorm.DB
 	// RedisClient redis数据库

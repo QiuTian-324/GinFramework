@@ -1,0 +1,502 @@
+2024-11-13T00:00:01.232+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:00:01.235+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:00:01.274+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:00:01.274+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:00:26.994+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:00:26.995+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:00:27.027+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:00:27.028+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:00:28.277+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:00:28.279+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:00:28.314+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:00:28.315+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:00:30.773+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:00:30.776+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:00:30.829+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:00:30.830+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:00:33.431+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:00:33.432+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:00:33.473+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:00:33.473+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:00:35.606+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:00:35.607+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:00:35.646+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:00:35.647+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:01:02.565+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:01:02.566+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:01:02.615+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:01:02.617+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:01:07.774+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:01:07.777+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:01:07.845+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:01:07.846+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:01:08.957+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:01:08.958+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:01:08.995+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:01:08.995+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:01:27.679+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:01:27.680+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:01:27.714+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:01:27.715+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:01:30.465+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:01:30.471+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:01:30.521+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:01:30.523+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:01:32.835+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:01:32.836+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:01:32.882+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:01:32.882+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:01:36.967+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:01:36.968+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:01:37.015+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:01:37.016+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:01:39.274+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:01:39.276+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:01:39.322+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:01:39.324+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:01:43.574+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:01:43.576+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:01:43.617+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:01:43.618+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:03:44.936+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:03:44.939+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:03:44.987+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:03:44.989+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:04:23.846+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:04:23.849+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:04:23.964+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:04:23.966+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:04:40.920+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:04:40.921+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:04:40.963+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:04:40.963+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:04:45.022+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:04:45.023+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:04:45.060+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:04:45.060+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:04:46.883+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:04:46.885+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:04:46.924+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:04:46.925+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:04:54.570+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:04:54.571+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:04:54.612+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:04:54.612+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:05:14.891+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:05:14.892+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:05:14.936+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:05:14.937+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:05:16.880+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:05:16.881+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:05:16.916+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:05:16.917+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:05:30.932+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:05:30.933+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:05:30.975+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:05:30.977+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:05:35.784+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:05:35.785+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:05:35.826+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:05:35.828+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:05:38.338+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:05:38.339+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:05:38.377+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:05:38.378+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:05:42.285+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:05:42.287+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:05:42.325+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:05:42.326+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:05:46.165+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:05:46.167+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:05:46.222+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:05:46.223+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:06:06.393+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:06:06.395+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:06:06.451+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:06:06.453+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:06:08.823+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:06:08.824+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:06:08.875+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:06:08.877+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:06:29.724+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:06:29.726+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:06:29.773+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:06:29.774+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:07:48.427+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:07:48.428+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:07:48.472+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:07:48.473+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:07:56.895+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:07:56.896+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:07:56.938+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:07:56.940+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:08:20.660+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:08:20.664+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:08:20.765+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:08:20.766+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:08:21.800+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:08:21.801+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:08:21.846+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:08:21.849+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:08:23.197+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:08:23.198+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:08:23.239+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:08:23.239+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:08:24.172+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:08:24.174+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:08:24.211+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:08:24.211+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:08:45.213+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:08:45.214+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:08:45.253+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:08:45.254+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:08:55.791+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:08:55.792+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:08:55.831+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:08:55.832+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:09:29.546+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:09:29.548+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:09:29.603+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:09:29.604+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:09:39.729+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:09:39.730+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:09:39.767+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:09:39.767+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:09:41.135+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:09:41.136+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:09:41.171+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:09:41.172+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:09:42.384+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:09:42.386+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:09:42.423+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:09:42.424+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:09:43.437+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:09:43.438+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:09:43.476+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:09:43.480+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:09:44.751+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:09:44.753+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:09:44.833+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:09:44.835+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:09:46.616+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:09:46.617+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:09:46.654+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:09:46.655+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:09:49.532+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:09:49.533+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:09:49.582+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:09:49.583+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:09:54.096+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:09:54.098+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:09:54.153+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:09:54.154+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:10:07.555+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:10:07.556+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:10:07.587+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:10:07.588+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:11:52.130+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:11:52.131+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:11:52.165+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:11:52.166+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:11:53.769+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:11:53.770+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:11:53.807+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:11:53.808+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:11:57.888+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:11:57.889+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:11:57.920+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:11:57.920+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:12:01.212+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:12:01.213+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:12:01.260+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:12:01.261+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:12:05.162+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:12:05.164+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:12:05.216+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:12:05.218+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:12:06.267+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:12:06.268+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:12:06.311+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:12:06.312+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:12:07.501+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:12:07.503+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:12:07.542+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:12:07.543+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:12:08.879+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:12:08.880+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:12:08.920+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:12:08.921+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:12:10.489+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:12:10.490+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:12:10.526+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:12:10.526+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:12:12.009+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:12:12.011+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:12:12.042+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:12:12.043+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:12:14.029+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:12:14.031+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:12:14.080+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:12:14.083+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:12:32.031+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:12:32.032+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:12:32.072+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:12:32.073+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:12:43.637+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:12:43.638+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:12:43.683+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:12:43.684+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:02.210+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:02.211+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:02.294+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:02.296+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:06.726+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:06.727+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:06.770+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:06.770+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:09.500+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:09.501+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:09.537+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:09.537+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:12.161+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:12.163+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:12.212+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:12.216+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:13.255+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:13.257+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:13.302+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:13.303+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:15.161+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:15.162+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:15.206+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:15.214+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:29.771+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:29.773+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:29.812+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:29.813+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:31.111+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:31.113+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:31.158+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:31.158+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:33.453+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:33.455+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:33.492+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:33.496+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:35.944+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:35.946+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:35.994+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:35.995+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:38.724+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:38.725+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:38.764+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:38.765+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:51.116+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:51.117+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:51.157+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:51.158+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:55.150+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:55.151+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:55.196+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:55.198+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:13:56.562+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:13:56.563+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:13:56.602+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:13:56.603+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:00.731+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:00.733+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:00.770+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:00.772+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:03.148+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:03.149+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:03.193+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:03.193+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:09.526+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:09.527+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:09.566+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:09.567+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:12.008+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:12.012+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:12.060+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:12.060+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:13.037+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:13.038+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:13.125+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:13.142+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:14.130+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:14.131+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:14.177+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:14.177+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:15.535+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:15.539+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:15.583+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:15.583+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:17.691+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:17.693+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:17.738+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:17.739+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:19.080+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:19.081+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:19.118+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:19.119+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:25.890+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:25.892+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:25.937+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:25.939+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:33.195+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:33.197+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:33.233+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:33.234+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:35.234+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:35.235+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:35.270+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:35.270+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:38.141+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:38.142+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:38.178+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:38.179+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:40.229+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:40.231+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:40.282+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:40.285+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:41.443+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:41.445+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:41.492+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:41.493+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:46.203+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:46.204+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:46.241+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:46.242+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:14:48.690+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:14:48.691+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:14:48.734+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:14:48.735+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:15:07.162+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:15:07.163+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:15:07.203+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:15:07.203+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:15:18.678+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:15:18.679+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:15:18.720+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:15:18.721+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:15:20.491+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:15:20.494+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:15:20.533+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:15:20.534+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:15:25.459+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:15:25.460+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:15:25.505+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:15:25.505+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:15:29.092+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:15:29.093+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:15:29.139+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:15:29.139+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:15:33.630+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:15:33.631+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:15:33.681+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:15:33.682+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:15:37.007+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:15:37.008+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:15:37.052+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:15:37.052+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:15:52.596+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:15:52.597+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:15:52.635+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:15:52.636+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:17:31.292+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:17:31.294+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:17:31.336+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:17:31.338+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:17:38.456+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:17:38.458+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:17:38.503+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:17:38.503+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:17:45.612+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:17:45.613+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:17:45.652+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:17:45.653+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:17:50.070+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:17:50.071+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:17:50.105+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:17:50.106+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:17:53.787+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:17:53.788+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:17:53.835+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:17:53.836+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:17:55.592+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:17:55.594+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:17:55.632+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:17:55.632+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:01.366+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:01.367+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:01.410+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:01.411+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:03.153+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:03.154+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:03.194+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:03.195+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:05.507+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:05.508+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:05.545+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:05.546+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:06.960+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:06.961+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:07.002+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:07.003+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:12.901+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:12.902+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:12.959+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:12.975+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:13.999+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:14.002+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:14.061+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:14.061+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:15.192+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:15.193+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:15.228+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:15.229+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:16.786+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:16.788+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:16.832+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:16.832+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:23.846+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:23.847+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:23.887+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:23.890+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:26.293+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:26.294+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:26.332+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:26.333+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:27.706+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:27.707+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:27.741+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:27.742+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:29.157+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:29.158+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:29.192+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:29.193+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:31.789+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:31.791+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:31.833+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:31.834+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:36.165+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:36.166+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:36.208+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:36.209+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:18:58.436+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:18:58.437+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:18:58.477+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:18:58.478+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:19:00.404+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:19:00.405+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:19:00.442+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:19:00.443+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:19:02.289+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:19:02.291+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:19:02.339+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:19:02.340+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:21:02.102+0800	[34mINFO[0m	config/gorm.go:33	GORM 初始化成功
+2024-11-13T00:21:02.105+0800	[34mINFO[0m	config/gorm.go:50	数据库连接测试成功
+2024-11-13T00:21:02.169+0800	[34mINFO[0m	config/gorm.go:70	数据库表迁移成功
+2024-11-13T00:21:02.170+0800	[34mINFO[0m	config/router.go:47	Fox IM 服务运行在：9000端口上
+2024-11-13T00:31:26.898+0800	[34mINFO[0m	config/router.go:56	服务关闭
+2024-11-13T00:31:26.900+0800	[34mINFO[0m	config/router.go:64	服务关闭成功

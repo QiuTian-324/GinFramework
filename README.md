@@ -44,7 +44,7 @@ GinFramework/
 ├── api/                # 控制器层，处理请求与响应
 ├── configs/            # 配置文件目录
 ├── global/             # 全局变量管理
-├── initialize/         # 初始化操作
+├── internal/         # 初始化操作
 ├── log/                # 日志管理
 ├── middleware/         # 中间件
 ├── model/              # 数据模型

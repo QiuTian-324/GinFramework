@@ -1,0 +1,12 @@
+{"level":"ERROR","time":"2024-11-11 22:58:48","msg":"GORM初始化失败Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"ERROR","time":"2024-11-11 22:59:09","msg":"GORM初始化失败Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"ERROR","time":"2024-11-11 23:00:28","msg":"GORM初始化失败Error 1049 (42000): Unknown database 'pass'"}
+{"level":"ERROR","time":"2024-11-11 23:01:09","msg":"GORM初始化失败Error 1049 (42000): Unknown database 'pass'"}
+{"level":"ERROR","time":"2024-11-11 23:01:19","msg":"Redis连接失败dial tcp 127.0.0.1:6379: connect: connection refused"}
+{"level":"ERROR","time":"2024-11-11 23:01:31","msg":"Redis连接失败dial tcp 127.0.0.1:6379: connect: connection refused"}
+{"level":"ERROR","time":"2024-11-11 23:01:42","msg":"Redis连接失败dial tcp 127.0.0.1:6379: connect: connection refused"}
+{"level":"ERROR","time":"2024-11-11 23:02:06","msg":"Redis连接失败dial tcp 127.0.0.1:6379: connect: connection refused"}
+{"level":"ERROR","time":"2024-11-11 23:02:29","msg":"Redis连接失败dial tcp 127.0.0.1:6379: connect: connection refused"}
+{"level":"INFO","time":"2024-11-11 23:31:41","msg":"shutting down server..."}
+{"level":"INFO","time":"2024-11-11 23:43:39","msg":"shutting down server..."}
+{"level":"INFO","time":"2024-11-11 23:49:40","msg":"shutting down server..."}
