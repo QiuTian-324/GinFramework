@@ -1,7 +1,7 @@
 package config
 
 import (
-	"gin_template/internal/data/user"
+	"gin_template/internal/libs"
 	"gin_template/pkg"
 	"time"
 
@@ -50,23 +50,11 @@ func GormInternal() (*gorm.DB, error) {
 	pkg.Info("数据库连接测试成功")
 
 	// 自动迁移表结构
-	err = autoMigrate(db)
+	err = libs.AutoMigrate(db)
 	if err != nil {
 		pkg.Error("数据库表迁移失败", err)
 		return nil, err
 	}
 
 	return db, nil
-}
-
-// autoMigrate 自动迁移数据库表结构
-func autoMigrate(db *gorm.DB) error {
-	err := db.AutoMigrate(
-		&user.User{}, // 用户表
-	)
-	if err != nil {
-		return err
-	}
-	pkg.Info("数据库表迁移成功")
-	return nil
 }

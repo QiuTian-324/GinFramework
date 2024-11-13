@@ -23,7 +23,6 @@ func StartServer() {
 	}
 	global.RedisClient = redisClient
 
-	// 注入db
 	middleware.InjectDB()
 
 	// 初始化雪花算法

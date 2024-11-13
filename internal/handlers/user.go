@@ -1,12 +1,16 @@
 package handlers
 
 import (
+	"fmt"
+	"gin_template/global"
 	"gin_template/internal/dto"
 	"gin_template/internal/libs"
 	"gin_template/internal/services"
 	"gin_template/pkg"
+	"time"
 
 	"github.com/gin-gonic/gin"
+	"github.com/spf13/viper"
 	"gorm.io/gorm"
 )
 
@@ -54,7 +58,6 @@ func Login(ctx *gin.Context) {
 		return
 	}
 
-	// 查询用户
 	userInfo, err := services.Login(db, req.Username, req.Password)
 	if err != nil {
 		libs.InternalServerErrorResponse(ctx, "用户不存在")
@@ -62,7 +65,6 @@ func Login(ctx *gin.Context) {
 		return
 	}
 
-	// 生成token
 	token, err := libs.GenToken(userInfo.ID, userInfo.Username)
 	if err != nil {
 		libs.InternalServerErrorResponse(ctx, "登陆失败")
@@ -70,7 +72,15 @@ func Login(ctx *gin.Context) {
 		return
 	}
 
-	// 生成token
+	redisKey := fmt.Sprintf("%s%d", global.RedisSessionKey, userInfo.ID)
+
+	err = libs.RedisSet(ctx, redisKey, token, time.Hour*time.Duration(viper.GetInt64("redis.expires")))
+	if err != nil {
+		libs.InternalServerErrorResponse(ctx, "登录失败")
+		pkg.Error("设置redis失败", err)
+		return
+	}
+
 	res.Token = token
 	libs.SuccessResponse(ctx, "登录成功", res)
 }

@@ -21,8 +21,3 @@ var (
 	MyTicker *time.Ticker
 )
 
-// RandomKey 随机数相关的种子
-var RandomKey string = "Key12368975490255"
-
-// RedisKey redis存储随机前缀
-var RedisKey string = "redis_"

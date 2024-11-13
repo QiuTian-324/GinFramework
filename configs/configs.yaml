@@ -27,6 +27,7 @@ redis:
   host: 127.0.0.1
   port: 6379
   db: 0
+  expires: 24
   
 login:
   timeout: 120

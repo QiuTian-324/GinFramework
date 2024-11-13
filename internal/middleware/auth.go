@@ -28,7 +28,7 @@ func AuthToken(c *gin.Context) {
 	}
 
 	// 检查 Redis 中是否存在 token
-	result, _ := global.RedisClient.Get(context.Background(), global.RedisKey+currentUser.Username).Result()
+	result, _ := global.RedisClient.Get(context.Background(), global.RedisPrefix+currentUser.Username).Result()
 	if result == "" {
 		libs.UnauthorizedResponse(c, fmt.Sprintf("非法请求，用户未认证，IP %s 已记录！", ip))
 		return
