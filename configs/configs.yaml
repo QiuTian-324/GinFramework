@@ -1,0 +1,46 @@
+development:
+  develop: false        # 是否开启开发模式（调试模式）
+  
+service:
+  port: 9000
+  
+log:
+  max_size: 50         # 日志文件最大 MB 数
+  max_backups: 7       # 日志文件最多保留几个备份
+  max_age: 30          # 日志文件最多保存多少天
+  compress: true       # 是否启用压缩
+  
+mysql:
+  # host: 127.123.2.1
+  host: localhost
+  port: 3306
+  user: root
+  password: 11111111
+  database: gin_framework
+  # 设置最大空闲连接
+  MaxIdleCons: 10
+  # 设置最大打开连接
+  MaxOpenCons: 100
+
+redis:
+  # host:
+  host: 127.0.0.1
+  port: 6379
+  db: 0
+  expires: 24
+  
+login:
+  timeout: 120
+  
+ticker:
+  # 默认刷新时间
+  Second: 20
+  
+jwt:
+  secret: "xxx"   # 用于签名的密钥，请设置一个足够强的随机字符串
+  issuer: "xx"                   # 签发者
+  expires_in: 7                  # Token 过期时间（7天）
+  leeway: 5s                        # 时间误差（允许误差5秒）
+  access_token_expires_in: 1     # Access Token 过期时间（小时）
+  refresh_token_expires_in: 168  # Refresh Token 过期时间（小时，7天）
+
