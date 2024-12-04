@@ -49,21 +49,44 @@
 
 ```
 GinFramework/
-├── api/                # 控制器层，处理请求与响应
+├── api/                # API 层，处理路由和控制器逻辑
+│   ├── chat.go         # 聊天相关的 API
+│   ├── router.go       # 路由配置
+│   └── user.go         # 用户相关的 API
+├── cmd/                # 应用程序入口
+│   ├── modules.go      # 模块初始化
+│   ├── start.go        # 启动文件
+│   ├── wire_gen.go     # Wire 生成的依赖注入代码
+│   └── wire.go         # Wire 配置
 ├── configs/            # 配置文件目录
-├── global/             # 全局变量管理
-├── internal/         # 初始化操作
+├── global/             # 全局变量和常量
+│   ├── constant.go     # 常量定义
+│   └── global.go       # 全局变量
+├── internal/           # 内部实现，包含各层的具体实现
+│   ├── config/         # 配置管理
+│   ├── data/           # 数据层，数据库操作
+│   ├── dto/            # 数据传输对象
+│   ├── handlers/       # 处理器
+│   ├── libs/           # 库和工具
+│   ├── middleware/     # 中间件
+│   ├── repo/           # 仓储层，数据持久化
+│   ├── server/         # 服务器配置
+│   └── services/       # 服务层，业务逻辑
 ├── log/                # 日志管理
-├── middleware/         # 中间件
-├── model/              # 数据模型
-├── router/             # 路由管理
-└── utils/              # 工具函数
+├── pkg/                # 包，第三方库
+├── test/               # 测试文件
+├── tmp/                # 临时文件
+├── utils/              # 工具函数
+├── go.mod              # Go 模块文件
+├── go.sum              # 依赖版本锁定文件
+└── main.go             # 主程序入口
 ```
 
 ## 功能计划
 
 未来的更新计划包括但不限于：
 
+- **用户认证模块**：提供 JWT、OAuth2 等认证方式的集成。
 - **权限管理**：实现基于角色的权限控制 (RBAC)。
 - **API 文档生成**：自动生成 API 文档，支持 Swagger 等格式。
 - **多数据库支持**：扩展支持更多数据库，如 PostgreSQL、MongoDB。
@@ -77,3 +100,14 @@ GinFramework/
 ## 许可
 
 此项目遵循 MIT 许可。
+
+## 联系
+如果您有任何问题或建议，请通过以下方式联系我们：
+
+- 邮箱: yjj4872@gmail.com
+- WeChat: Akita324
+- QQ: 1240092443
+- GitHub: [QiuTian-324](https://github.com/QiuTian-324)
+- GitHub Issues: [GinFramework Issues](https://github.com/QiuTian-324/GinFramework/issues)
+
+我们会尽快回复您的问题，并感谢您对我们项目的支持和关注。
